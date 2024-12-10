@@ -1,4 +1,4 @@
-#cutting edge of a newer world
+# cutting edge of a newer world
 
 <!--
 **sugarplease/sugarplease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
