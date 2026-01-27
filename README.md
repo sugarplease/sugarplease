@@ -1,6 +1,6 @@
 <font color=white><font size=5> Cutting Edge of a Newer World
 
-[Blog](http://47.104.245.122:7890/)
+[Blog](www.sugarplease.cn)
 
 <!--
 **sugarplease/sugarplease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
